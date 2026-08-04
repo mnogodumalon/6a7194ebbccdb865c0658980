@@ -1,0 +1,13 @@
+{
+  "AktualisierungDialog.tsx": {
+    "titel": "z. B. Update 2.5 erfolgreich",
+    "beschreibung": "Änderungen, Verbesserungen, Bugfixes...",
+    "datum": "Wann erfolgt/erfolgte die Aktualisierung?",
+    "version": "z. B. 2.5.0",
+    "prioritaet": "Wie wichtig ist diese Aktualisierung?",
+    "status": "In welchem Stadium befindet sich die Aktualisierung?",
+    "verantwortliche_person": "z. B. Musterperson",
+    "betroffene_bereiche": "z. B. Frontend, API, Datenbank",
+    "anmerkungen": "Zusätzliche Notizen, bekannte Probleme, Rollback-Plan..."
+  }
+}

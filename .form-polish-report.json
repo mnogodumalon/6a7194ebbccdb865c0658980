@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Aktualisierung": {
+      "placeholders_set": 9,
+      "defaults_keys": ["datum", "status"],
+      "computed_keys": [],
+      "reason": "Reine Verwaltungs- und Dokumentationsdaten. Keine Number-Felder (keine Preise, Mengen, Dauern), keine Applookup-Ketten zu Stammdaten, nur Status-Lookup und Metadaten. Keine berechenbaren Größen. Datum wurde vorbelegt (heute), Status mit Anfangswert 'Geplant'."
+    }
+  }
+}
